@@ -1,9 +1,13 @@
-## 🧑🏻‍💻 Asafe Orneles
+## 👨🏻‍💻 Asafe Orneles
 
 -  Cursando Ciência da Computação
 -  Focado no desenvolvimento back end, Java
 -  Contate - me no email: asafeorneles@gmail.com
--  Diga sim ao Java
+
+<div> 
+  <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://instagram.com/asafeorneles" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
+</div>
 
 ---
 
@@ -38,23 +42,25 @@
 
 ---
 
-### Estatísticas
+### 📊 Estatísticas
 
+<p>
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="200" 
+    height="150" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=asafeorneles&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=asafeorneles&show_icons=true&theme=tokyonight&locale=pt-br" 
   />
 
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="200" 
+      height="150" 
       style="padding-right: 10px;" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=asafeorneles&theme=tokyonight&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=asafeorneles&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
+</p>
   
-  
+
 
