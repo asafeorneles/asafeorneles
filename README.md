@@ -1,10 +1,10 @@
 ## Olá, sou o Asafe!
 
 
-- 🔭 Cursando Ciência da Computação
-- 🌱 Focado no desenvolvimento back end, Java
-- 💬 Contate - me no email: asafeorneles@gmail.com
-- ☕ Diga sim ao Java
+-  Cursando Ciência da Computação
+-  Focado no desenvolvimento back end, Java
+-  Contate - me no email: asafeorneles@gmail.com
+-  Diga sim ao Java
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Asafe-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
