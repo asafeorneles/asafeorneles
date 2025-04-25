@@ -1,4 +1,4 @@
-## 👨‍💻 Asafe Orneles
+## 🧑🏻‍💻 Asafe Orneles
 
 
 -  Cursando Ciência da Computação
