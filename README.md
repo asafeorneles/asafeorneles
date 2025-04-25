@@ -6,13 +6,32 @@
 -  Diga sim ao Java
 
 ---
+
 ### 🤖 Linguagens e Tecnologias
-<div style="display: inline_block"><br>
-  <img align="center" alt="Asafe-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
-  <img align="center" alt="Asafe-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Asafe-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Asafe-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-</div>
+  <img 
+    align="left" 
+    alt="Asafe-Java" 
+    width="30px" 
+    style= "padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
+    />
+  <img 
+    align="left" 
+    alt="Asafe-HTML" 
+    width="30px" 
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"
+    />
+  <img 
+    align="left" 
+    alt="Asafe-Java" 
+    width="30px" 
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"
+    />
+  <img align="left" 
+    alt="Asafe-Java" 
+    width="30px"  
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
+    />
 
 ##
 
