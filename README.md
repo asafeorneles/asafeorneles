@@ -1,5 +1,4 @@
 ## 🧑🏻‍💻 Asafe Orneles
----
 
 -  Cursando Ciência da Computação
 -  Focado no desenvolvimento back end, Java
