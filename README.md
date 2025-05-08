@@ -43,14 +43,9 @@
   />
 </p>
 
-<br>
-<br>
-<br>
-
-```
-Keep Cooding ☕💻
-```
 
 <img src="https://github.com/user-attachments/assets/02d115e8-392a-4662-b2e1-e241f9a4d1fd" alt="club-penguin-playercard" align="right" width="150">
   
-
+```
+Keep Cooding ☕💻
+```
