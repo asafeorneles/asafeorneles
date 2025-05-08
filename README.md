@@ -1,15 +1,18 @@
 ![Capa README](./proGit.jpg)
 
-## 👨🏻‍💻 Asafe Orneles
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&pause=1000&color=BE4944&width=300&lines=Welcome+to+my+Github!+" align="center"> 
 
--  Cursando Ciência da Computação
--  Focado no desenvolvimento back end, Java
--  Contate - me no email: asafeorneles@gmail.com
+<h4>
+  🎓 Cursando Ciência da Computação <br>
+  ☕ Focado no desenvolvimento back end, Java <br>
+  ✉ Contate - me no email: asafeorneles@gmail.com <br>
+</h4>
 
 <div> 
   <a href="https://www.linkedin.com/in/asafeorneles" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://instagram.com/asafeorneles" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
 </div>
+
 
 ---
 
@@ -64,5 +67,4 @@
   />
 </p>
   
-
 
