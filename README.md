@@ -1,4 +1,4 @@
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&pause=1000&color=BE4944&width=300&lines=Welcome+to+my+Github!;I'm+a+Software+Developer" align="center"> 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&pause=1000&color=BE4944&width=300&lines=Welcome+to+my+Github!;I'm+Asafe,+a+Software+Dev!" align="center"> 
 
 ![Capa README](./proGit.jpg)
 
