@@ -4,7 +4,6 @@
 
 
 <h4>
-  - Asafe Orneles <br>
   🎓 Cursando Ciência da Computação <br>
   ☕ Focado no desenvolvimento back end, Java <br>
   ✉ Contate - me no email: asafeorneles@gmail.com <br>
