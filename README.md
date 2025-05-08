@@ -1,3 +1,5 @@
+![Capa README](./proGit.jpg)
+
 ## 👨🏻‍💻 Asafe Orneles
 
 -  Cursando Ciência da Computação
