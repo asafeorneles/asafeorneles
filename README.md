@@ -25,7 +25,6 @@
 
 ### 📊 Estatísticas
 
-<p>
   <img 
     align="left" 
     alt="GitHub Stats" 
@@ -41,11 +40,12 @@
       style="padding-right: 10px;" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=asafeorneles&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
-</p>
 
+<br>
+<br>
 
-<img src="https://github.com/user-attachments/assets/02d115e8-392a-4662-b2e1-e241f9a4d1fd" alt="club-penguin-playercard" align="right" width="150">
+<img src="https://github.com/user-attachments/assets/02d115e8-392a-4662-b2e1-e241f9a4d1fd" alt="club-penguin-playercard" align="right" width="130">
   
-```
-Keep Cooding ☕💻
-```
+````
+</> Keep Cooding ☕💻 </>
+````
