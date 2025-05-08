@@ -18,34 +18,10 @@
 ---
 
 ### 🤖 Linguagens e Tecnologias
-  <img 
-    align="left" 
-    alt="Asafe-Java" 
-    width="30px" 
-    style= "padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
-    />
-  <img 
-    align="left" 
-    alt="Asafe-HTML" 
-    width="30px" 
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"
-    />
-  <img 
-    align="left" 
-    alt="Asafe-Java" 
-    width="30px" 
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"
-    />
-  <img align="left" 
-    alt="Asafe-Java" 
-    width="30px"  
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-    />
 
-<br/>
-<br/>
+[![My Skills](https://skillicons.dev/icons?i=java,html,css,python)](https://skillicons.dev)
 
+ 
 ---
 
 ### 📊 Estatísticas
@@ -67,5 +43,9 @@
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=asafeorneles&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 </p>
-  
+
+<br>
+<br> 
+
+<img src="https://github.com/user-attachments/assets/02d115e8-392a-4662-b2e1-e241f9a4d1fd" alt="club-penguin-playercard" align="right" width="100">
 
