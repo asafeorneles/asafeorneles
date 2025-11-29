@@ -19,7 +19,7 @@
 
 ### 🤖 Linguagens e Tecnologias
 
-[![My Skills](https://skillicons.dev/icons?i=java,python,html,css,mysql,mongodb,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,cs,mysql,mongodb,docker,html,css,git)](https://skillicons.dev)
 
 ---
 
