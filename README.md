@@ -6,6 +6,7 @@
 <h4>
   🎓 Cursando Ciência da Computação <br>
   ☕ Desenvolvedor back end - Java | Spring Boot <br>
+  <img src="https://github.com/user-attachments/assets/02d115e8-392a-4662-b2e1-e241f9a4d1fd" alt="club-penguin-playercard" align="right" width="130">
 </h4>
 
 <div> 
@@ -43,6 +44,6 @@
 <br>
 <br>
 
-<img src="https://github.com/user-attachments/assets/02d115e8-392a-4662-b2e1-e241f9a4d1fd" alt="club-penguin-playercard" align="right" width="130">
+
   
 
