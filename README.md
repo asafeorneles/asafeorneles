@@ -29,7 +29,7 @@
     alt="GitHub Stats" 
     height="150" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=asafeorneles&show_icons=true&theme=tokyonight&locale=pt-br" 
+    src="https://github-readme-stats-ten-gilt.vercel.app/api?username=asafeorneles&show_icons=true&count_private=true&hide_border=true&title_color=F66B92&icon_color=F66B92&text_color=F66B92&bg_color=0d1117" 
   />
 
 <img 
@@ -37,7 +37,7 @@
       alt="GitHub Stats" 
       height="150" 
       style="padding-right: 10px;" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=asafeorneles&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=asafeorneles&layout=compact&hide_border=true&title_color=F66B92&text_color=F66B92&bg_color=0d1117"
   />
 
 <br>
