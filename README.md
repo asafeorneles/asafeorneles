@@ -5,8 +5,7 @@
 
 <h4>
   🎓 Cursando Ciência da Computação <br>
-  ☕ Focado no desenvolvimento back end, Java <br>
-  ✉ Contate - me no email: asafeorneles@gmail.com <br>
+  ☕ Desenvolvedor back end - Java | Spring Boot <br>
 </h4>
 
 <div> 
