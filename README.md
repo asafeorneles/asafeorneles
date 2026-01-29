@@ -43,9 +43,6 @@
 
 <br>
 <br>
-<foot>
-  <img width="100" height="382" alt="duke git" src="https://github.com/user-attachments/assets/7d614606-9448-44ae-8f13-28e46616f752" />
-</foot>
 
   
 
